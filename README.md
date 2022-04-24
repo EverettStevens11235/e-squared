@@ -10,5 +10,5 @@ Dont mess with anything unless you know what you're changing.
 ### Running from the terminal
 Go into the terminal and run
 > $ python3 shell.py
-Now code! 
-Read docs if you are confused.
+
+Now code! Read docs if you are confused.
