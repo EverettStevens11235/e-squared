@@ -1,0 +1,5 @@
+string          :   'char*?'
+char            :   any key on the keyboard
+print           :   print string
+type            :   type [|keyword/variable/value]
+ignore          :   |keyword
